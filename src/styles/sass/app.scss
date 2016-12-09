@@ -1,0 +1,19 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.navbar-collapse {
+    background-color: black;
+    margin-bottom: 15px;
+}
+
+nav {
+    ul li a {
+        color: white;
+        font-size: 16px;
+    }
+}
+
+.navbar-default {
+    background-color: initial;
+    border-color: initial;
+    border: 0;
+}
